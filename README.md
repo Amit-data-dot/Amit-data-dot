@@ -1,16 +1,78 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Amit Kumar</h1>
+<h3 align="center">📊 Aspiring Data Analyst | HR Analytics Enthusiast | Turning Data into Insights</h3>
 
-<!--
-**Amit-data-dot/Amit-data-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-skyblue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-SQL%20%7C%20Python%20%7C%20PowerBI-skyblue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Goal-Data%20Driven%20HR-skyblue?style=for-the-badge" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me  
+
+🔹 I'm passionate about *Data Analytics & HR Decision Making*  
+🔹 Currently learning *SQL, Excel, Python & Power BI*  
+🔹 Interested in *HR Analytics, Employee Insights & Business Data*  
+🔹 I believe in *learning by building real-world projects*  
+
+---
+
+## 🧠 What I Do  
+
+✔️ Data Cleaning & Analysis  
+✔️ Dashboard Creation (Power BI / Excel)  
+✔️ SQL Query Writing  
+✔️ HR Data Insights (Attrition, Performance, Hiring)  
+
+---
+
+## 🛠️ Skills & Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,excel,powerbi" />
+</p>
+
+---
+
+## 📊 Projects  
+
+🔹 *HR Attrition Analysis*  
+→ Analyze employee turnover trends using Excel & Power BI  
+
+🔹 *Employee Performance Dashboard*  
+→ Visualize KPIs and productivity metrics  
+
+🔹 *SQL Data Analysis Project*  
+→ Extract insights using complex SQL queries  
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amit-data-dot&show_icons=true&theme=default&title_color=87CEEB&icon_color=87CEEB" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-data-dot&theme=default&ring=87CEEB" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-skyblue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-skyblue?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+## 💡 Quote  
+
+> “Without data, you're just another person with an opinion.” – W. Edwards Deming  
+
+---
+
+⭐ Always learning. Always building. Always improving.
