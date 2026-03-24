@@ -1,1 +1,57 @@
-This is the richa's profile-https://github.com/Richa-OnData-AI  and  i want smiliar for Amit' github profile- https://github.com/Amit-data-dot                                                                                In 1st part that is Heading - Hi 👋, I'm Amit Kumar   then in the                                          heading2 - Data Analyst | Business Analyst | HR Analyst                                                                                 heading3 - Decoding Data to Drive Smarter Outcomes -This should be displayed like richa's heading3                                                                                                                                                         In Skills Section:-                                                                                                                                         1.Python 2.Excel 3.PowerBI 4.MySQL 5.Statistics 6. Machine Learning                                                 these skills section should also contain image and then beside image write the name like Excel logo -Excel                                                                                         In About be section:-                                                                                                                                         write as per this profile     but don't use the word aspiring                                                                                In Project Section:- refer his github id and statistics flight project                                                      In Data Analytics and ML Blogs :- go to his medium id and write two line as per his blogs on medium his id is - https://medium.com/@amit.insightwizard/the-art-of-data-visualization-bringing-clarity-to-complexity-198c9794b99d                                                                                                                                                             Then add a section of Snake contribution:-                                                                                                         then add connect me section :-                                                                                                                 1.likedin-  https://www.linkedin.com/in/amit-kumar-679942353?utm_source=share_via&utm_content=profile&utm_medium=member_android                           2.Medium-https://medium.com/@amit.insightwizard/the-art-of-data-visualization-bringing-clarity-to-complexity-198c9794b99d                                                                                   3.StackOverflow - https://stackoverflow.com/users/27881562/amit-kumar                                                                                                                                 at last from Amit - https://github.com/Amit-data-dot                                                                                  make sure that the heading will be in   animated and color should be #35D7FF and #69E2FF        and  after top most heading each section heading color should be in #69E2FF         and snake color will be #00CCFF                                                                   Make sure that the skills  and the connect me   section cover entire space from left to write .
+<!-- Animated Heading -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=35D7FF&size=30&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Amit+Kumar" />
+</h1>
+
+<h2 align="center" style="color:#69E2FF;">
+Data Analyst | Business Analyst | HR Analyst
+</h2>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=69E2FF&size=22&center=true&vCenter=true&width=900&lines=Decoding+Data+to+Drive+Smarter+Outcomes" />
+</h3>
+
+---
+
+## <span style="color:#69E2FF;">👨‍💻 About Me</span>
+
+- Passionate about transforming raw data into meaningful insights  
+- Skilled in analyzing business problems and delivering data-driven solutions  
+- Strong interest in HR analytics, business intelligence, and decision-making  
+- Continuously learning and applying analytics tools to solve real-world problems  
+
+---
+
+## <span style="color:#69E2FF;">🚀 Skills & Tools</span>
+
+<div align="center">
+
+| Icon | Skill |
+|------|------|
+| <img src="https://img.icons8.com/color/48/python.png"/> | Python |
+| <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/> | Excel |
+| <img src="https://img.icons8.com/color/48/power-bi.png"/> | Power BI |
+| <img src="https://img.icons8.com/color/48/mysql-logo.png"/> | MySQL |
+| <img src="https://img.icons8.com/color/48/statistics.png"/> | Statistics |
+| <img src="https://img.icons8.com/color/48/artificial-intelligence.png"/> | Machine Learning |
+
+</div>
+
+---
+
+## <span style="color:#69E2FF;">📊 Projects</span>
+
+### ✈️ Flight Price Prediction & Analysis
+- Analyzed flight datasets to uncover pricing patterns and trends  
+- Built predictive models to estimate ticket prices  
+- Applied data cleaning, EDA, and machine learning techniques  
+
+---
+
+## <span style="color:#69E2FF;">✍️ Data Analytics & ML Blogs</span>
+
+- Explores how effective data visualization simplifies complex datasets and improves decision-making  
+- Focuses on storytelling with data to enhance clarity, insights, and business understanding  
+
+🔗 Read more:  
+https://medium.com/@amit.insightwizard/the-art-of
