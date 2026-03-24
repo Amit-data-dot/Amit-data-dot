@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<h3 align="center">📊 Aspiring Data Analyst | HR Analytics Enthusiast | Turning Data into Insights</h3>
+<h3 align="center">📊 Data Analyst | Business Analyst | HR Analyst</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Data%20Analytics-skyblue?style=for-the-badge" />
@@ -12,7 +12,7 @@
 ## 🌟 About Me  
 
 🔹 I'm passionate about *Data Analytics & HR Decision Making*  
-🔹 Currently learning *SQL, Excel, Python & Power BI*  
+🔹 Currently learning *SQL, Excel, Python, Power BI & Statistics*  
 🔹 Interested in *HR Analytics, Employee Insights & Business Data*  
 🔹 I believe in *learning by building real-world projects*  
 
@@ -30,7 +30,13 @@
 ## 🛠️ Skills & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,excel,powerbi" />
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-skyblue?style=for-the-badge&logo=powerbi" />
+  <img src="https://img.shields.io/badge/Excel-skyblue?style=for-the-badge&logo=microsoft-excel" />
+  <img src="https://img.shields.io/badge/Statistics-skyblue?style=for-the-badge" />
 </p>
 
 ---
