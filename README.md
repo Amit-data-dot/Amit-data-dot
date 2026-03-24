@@ -34,11 +34,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-skyblue?style=for-the-badge&logo=powerbi" />
-  <img src="https://img.shields.io/badge/Excel-skyblue?style=for-the-badge&logo=microsoft-excel" />
+  <img src="https://img.shields.io/badge/Power%20BI-skyblue?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-skyblue?style=for-the-badge&logo=microsoft-excel&logoColor=black" />
   <img src="https://img.shields.io/badge/Statistics-skyblue?style=for-the-badge" />
 </p>
-
 ---
 
 ## 📊 Projects  
