@@ -81,3 +81,8 @@
 ---
 
 ⭐ Always learning. Always building. Always improving.
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    💬 “Without data, you're just another person with an opinion.” – W. Edwards Deming
+  </marquee>
+</p>
